@@ -6,3 +6,14 @@ deps/deps.jl
 
 #jupyter
 *.ipynb_checkpoints
+
+#directories
+JuliaBoxTutorials-Julia-v1_0/advanced-julia
+JuliaBoxTutorials-Julia-v1_0/intro-to-julia-DataFrames
+JuliaBoxTutorials-Julia-v1_0/intro-to-julia-for-data-science
+JuliaBoxTutorials-Julia-v1_0/intro-to-juliadb
+JuliaBoxTutorials-Julia-v1_0/intro-to-ml
+JuliaBoxTutorials-Julia-v1_0/intro-to-solving-diffeq-in-julia
+JuliaBoxTutorials-Julia-v1_0/intro-to-the-dinamicalsystems.jl
+JuliaBoxTutorials-Julia-v1_0/ML-demos
+JuliaBoxTutorials-Julia-v1_0/parallelism-demos
